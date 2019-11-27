@@ -1,0 +1,12 @@
+Weight,Multiplier,Full Ticker,TICKER_AND_EXCH_CODE,ID ISIN,LONG COMP NAME,Crncy,FUND_TOTAL_ASSETS,FUND_BENCHMARK_PRIM,PROXY Full Ticker
+ 0.12 , 6.00 ,FMGDIAE LX Equity,FMGDIAE LX,LU0211333454,Franklin Templeton Investment Funds - Franklin Mutual Global Discovery Fund,EUR,596.9705,MXWO,MSDEWIN Index
+ 0.12 , 5.50 ,TEMWPIU LX Equity,TEMWPIU LX,LU0390134871,Franklin Templeton Investment Funds - Franklin World Perspectives Fund,USD,328.1781,MSEIAFUG,MSDEWIN Index
+ 0.12 , 6.00 ,JPGRECA LX Equity,JPGRECA LX,LU0512952267,JPMorgan Funds - Global Research Enhanced Index Equity,EUR,356.8105,MSDUWI,MSDEWIN Index
+ 0.12 , 6.00 ,INGSGIC LX Equity,INGSGIC LX,LU0191250769,NN L Global Sustainable Equity,EUR,2021.656,MXWO,MSDEWIN Index
+ 0.12 , 6.00 ,TEMGEIA LX Equity,TEMGEIA LX,LU0195953749,Templeton Global Climate Change Fund,EUR,636.4067,MXWD,MSDEWIN Index
+ 0.10 , 4.50 ,TEMEMIA LX Equity,TEMEMIA LX,LU0195951610,Franklin Templeton Investment Funds - Templeton Emerging Markets Fund,USD,925.5751,MXEF,NDUEEGF Index
+ 0.10 , 4.50 ,NBEMUIA ID Equity,NBEMUIA ID,IE00B3NBSZ12,Neuberger Berman Emerging Markets Equity Fund/Ireland,USD,421.0107,#N/A Field Not Applicable,NDUEEGF Index
+ 0.05 , 9.00 ,BMEUBWE ID Equity,BMEUBWE ID,IE00BDB5R146,BNY Mellon Global Funds PLC - Euroland Bond Fund,EUR,946.2217,LBEATREU,LBEATREU Index
+ 0.05 , 9.00 ,PFIEURI LX Equity,PFIEURI LX,LU0241467157,Pictet - EUR Government Bonds,EUR,767.8214,JPMGEMUI,JPMGEMUI Index
+ 0.05 , 7.00 ,BNUHEIA ID Equity,BNUHEIA ID,IE00BDZ7T546,BNY Mellon US High Yield Beta Fund,EUR,663.4824,LF98TRUU,LF98TRUU Index
+ 0.05 , 7.00 ,PIMGHYH ID Equity,PIMGHYH ID,IE00B2R34Y72,PIMCO GIS Global High Yield Bond Fund,EUR,4001.096,H4DC,H4DC Index
